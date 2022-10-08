@@ -1,6 +1,7 @@
 <?php
 require_once "../vendor/autoload.php";
 
-$class = new \mzmatbj\common\Util();
+$class = new \Mzmatbj\Common\Util();
 
+$class->test();
 
