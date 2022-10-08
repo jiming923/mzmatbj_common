@@ -1,7 +1,7 @@
 {
     "name": "mzmatbj/common",
     "description": "this is mzmatbj common package",
-    "type": "l",
+    "type": "library",
     "require": {
         "php": ">=7.0"
     },
@@ -12,7 +12,6 @@
             "email": "maozhiming@qq.com"
         }
     ],
-    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "Mzmatbj\\Common\\": "src/"
