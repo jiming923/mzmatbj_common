@@ -14,7 +14,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Mzmatbj\\Common\\": "src/"
+            "Mzmatbj\\Common\\": "src"
         }
     }
 
