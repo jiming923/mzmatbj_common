@@ -1,7 +1,7 @@
 <?php
-namespace Mzmatbj\Common;
+namespace mzmatbj\common;
 
-class Util {
+class CommonUtil {
     public function test(){
         return 1;
     }
